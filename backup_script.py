@@ -79,5 +79,5 @@ def main():
 		connect(username, password)
 
 # Runs the main() method first
-#if __name__ == "__main__":
-#    main()
+if __name__ == "__main__":
+    main()
